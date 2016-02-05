@@ -20,7 +20,7 @@
     "url": "https://github.com/Marsup/hapi-mongodb/issues"
   },
   "dependencies": {
-    "mongodb": "*"
+    "mongodb": "~2.1.0"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
